@@ -1,11 +1,12 @@
 body{
 	background-color: blue;
+	/*didn't want the page to be white as they entered info into the prompt boxes*/
 	
 }
 .big{
 	width: 580px;
 	height: auto;
-	
+	/*external css for image on first page */
 }
 body{
 	background-image: url("tayto-colours.svg");
@@ -15,5 +16,5 @@ body{
 	width: 480px;
 	height: auto;
 	
-	
+	/*external css for image on second page */
 }
